@@ -69,7 +69,7 @@
 			<version>0.10.2</version>
 		</dependency>
 
-		<!--dependencia do lombok (criação de getters and satters usando apenas o @Data)-->
+		<!--dependenciado lombok (criação de getters and satters usando apenas o @Data)-->
 		<dependency>
 			<groupId>org.projectlombok</groupId>
 			<artifactId>lombok</artifactId>
